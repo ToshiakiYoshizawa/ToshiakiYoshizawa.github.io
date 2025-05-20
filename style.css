@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 2rem;
+  background: #fff;
+  color: #333;
+}
+header, footer {
+  text-align: center;
+}
+main {
+  max-width: 600px;
+  margin: 0 auto;
+}
